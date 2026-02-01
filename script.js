@@ -1,6 +1,6 @@
 
 function alert() {
     
-alert("Congratulations!\nYou got the script running.")
+alert("Congratulations!\nYou got the script running.");
 
-}
+};
