@@ -1,6 +1,6 @@
+const header =document.getElementById("welcomeMessage");
 
-function alert() {
-    
-alert("Congratulations!\nYou got the script running.");
+function callAlert() {
+    header.innerHTML="Welcome to the JavaScript Refresher page! - code is working!!!";
 
-};
+}; 
